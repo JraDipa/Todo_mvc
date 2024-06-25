@@ -31,14 +31,23 @@ Proyek ini adalah aplikasi Todo MVC sederhana yang memungkinkan pengguna untuk m
 Todo_MVC
 │
 ├── README.md
+
 ├── script.sql
+
 ├── api/
+
 │ └── api.php
+
 ├── config/
+
 │ └── database.php
+
 ├── controller/
+
 │ └── TodoController.php
+
 └── model/
+
 └── TodoModel.php
 
 ## Contoh Penggunaan
